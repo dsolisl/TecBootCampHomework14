@@ -1,0 +1,61 @@
+.top {
+    position: relative;
+    text-align: center;
+    color: white;
+    background-image: "static/images/ufo_5.jpg"
+  }
+  .centered {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 50px;
+
+  } 
+  .subtext{
+    color: whitesmoke;
+    font-size: 20px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .mediana{
+      font-size: 20px;
+      background-color: #67809f;
+      height: 25px;
+  }
+  .chica{
+      font-size: 15px;
+      background-color: #6c7a89;
+  }
+  #search_table{
+      align-items:inline ;
+  }
+  #box1{
+      background-color: #6c7a89;
+      height: 180px;
+      width: 170px;
+      padding-top: 5px;
+      display: inline-block;
+      
+
+  }
+  .table_space{
+      padding-left: 50px;
+      padding-top: 40px;
+      margin-top: 10px;
+      margin-left: 10px;
+      margin-right: 10px;
+  }
+  .info{
+      font-family: Lato;
+      font-size: 20px;
+  }
+  #box2{
+      display: inline-block
+  }
+   
+  
+    
